@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel Tótola Fontana
-- 👀 I’m interested in JavaScript, CSS, HTML
-- 🌱 I’m currently learning JavaScript, CSS, HTML
+- 👀 I’m interested in JavaScript, CSS, HTML, React
+- 🌱 I’m currently learning JavaScript, CSS, HTML, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me daniel.dtf@icloud.com
 
