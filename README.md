@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Daniel. / Olá, Daniel aqui.
 
-![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/daniel-t%C3%B3tola-fontana-879364235/))
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-t%C3%B3tola-fontana-879364235/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielTFontana&show_icons=true&theme=react)
 
