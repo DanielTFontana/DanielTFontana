@@ -7,10 +7,10 @@
  Technologies most used daily / Tecnologias mais usadas diariamente:
 
 ![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Blog](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blog](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blo
 <br/>
