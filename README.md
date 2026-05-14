@@ -11,6 +11,6 @@
 ![Blog](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Blog](https://img.shields.io/badge/NextJs-000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Blo
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielTFontana&hide_progress=true)
